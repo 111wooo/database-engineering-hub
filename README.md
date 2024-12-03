@@ -8,7 +8,7 @@ Oracle SQL 학습을 위한 스터디 저장소
 | 이름   | GitHub                                         |
 |--------|------------------------------------------------|
 | 곽희정 | [@KaiaGwak](https://github.com/KaiaGwak)       |
-| 멤버2  | [@member2](https://github.com/member2)         |
+| 이원우  | [@111wooo](https://github.com/111wooo)         |
 | 멤버3  | [@member3](https://github.com/member3)         |
 | 멤버4  | [@member4](https://github.com/member4)         |
 
